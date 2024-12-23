@@ -1,6 +1,6 @@
 # Welcome to Softsquaregroup Tech Community Front End ✨
 
-<img src="../assets/banner.png">
+<img src="../assets/banner.png" width="100%">
 
 ## 🌟 What is This Community About?
 We are a vibrant, inclusive, and collaborative community of Front End developers. Whether you're just starting out or you're a seasoned expert, this is the place for sharing ideas, solving challenges, and advancing your skills in modern Front End technologies.
