@@ -1,6 +1,6 @@
-# Welcome to [Company Name] Tech Community Front End!
+# Welcome to Softsquaregroup Tech Community Front End ✨
 
-![Front End Tech Community Banner](https://via.placeholder.com/1000x300?text=Tech+Community+Front+End)
+<img src="../assets/banner.png">
 
 ## 🌟 What is This Community About?
 We are a vibrant, inclusive, and collaborative community of Front End developers. Whether you're just starting out or you're a seasoned expert, this is the place for sharing ideas, solving challenges, and advancing your skills in modern Front End technologies.
@@ -48,7 +48,8 @@ We are a vibrant, inclusive, and collaborative community of Front End developers
 
 ## 🌐 Stay Connected
 - **Microsoft Team:** [Join Here](#)
-- **Discord:** [Follow Us](#)
+- **Discord:** [Join Here](#)
+- **Dev:** [Follow Us](#)
 
 ---
 
